@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0A0A0A,100:FF8C00&height=180&section=header&text=Muhammad%20Abdul%20Rehman&fontSize=42&fontColor=F5F5F5&fontAlignY=40&desc=AI%20Engineer%20%7C%20RAG%20Systems%20%26%20AI%20Chatbot%20Development&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0A0A0A,100:FF8C00&height=180&section=header&text=Muhammad%20Abdul%20Rehman&fontSize=42&fontColor=F5F5F5&fontAlignY=40&desc=AI%20Engineer%20%7C%20RAG%20Systems%20%2B%20AI%20Chatbot%20Development&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+AI+Engineer+%40+ARX+World;%24+cat+specialization.txt;%3E+RAG+systems+%2B+AI+chatbots+%2B+workflow+automation;%24+.%2Fcurrent_focus.sh;%3E+Learning+IBM+AI+Engineering+Professional+Certificate..." alt="Typing SVG"/>
 
