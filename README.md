@@ -268,7 +268,6 @@ An AI-powered copywriting studio for generating, editing, and exporting structur
 
 </div>
 
-> ⚠️ This renders only after a `snake.yml` GitHub Action is added to the `abdulrehman1610/abdulrehman1610` repo — see note below.
 
 <br/>
 
