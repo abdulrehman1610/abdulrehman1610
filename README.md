@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0A0A0A,100:FF8C00&height=180&section=header&text=Muhammad%20Abdul%20Rehman&fontSize=42&fontColor=F5F5F5&fontAlignY=40&desc=AI%20Engineer%20%7C%20RAG%20Systems%20%2B%20AI%20Chatbot%20Development&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0A0A0A,100:FF8C00&height=180&section=header&text=Muhammad%20Abdul%20Rehman&fontSize=42&fontColor=F5F5F5&fontAlignY=40&desc=AI%20Engineer%20%7C%20RAG%20Systems%20%26%20AI%20Chatbot%20Development&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+AI+Engineer+%40+ARX+World;%24+cat+specialization.txt;%3E+RAG+systems+%2B+AI+chatbots+%2B+workflow+automation;%24+.%2Fcurrent_focus.sh;%3E+Learning+IBM+AI+Engineering+Professional+Certificate..." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+AI+Engineer+%40+Skill+Sprint;%24+cat+specialization.txt;%3E+RAG+systems+%2B+AI+chatbots+%2B+workflow+automation;%24+.%2Fcurrent_focus.sh;%3E+Learning+IBM+AI+Engineering+Professional+Certificate..." alt="Typing SVG"/>
 
 <br/>
 
@@ -211,29 +211,6 @@ An AI-powered copywriting studio for generating, editing, and exporting structur
 
 <br/>
 
-## `$ curl analytics/github`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdulrehman1610&show_icons=true&theme=transparent&hide_border=true&title_color=FF8C00&icon_color=FF8C00&text_color=F5F5F5&bg_color=0A0A0A" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman1610&theme=dark&hide_border=true&background=0A0A0A&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman1610&layout=compact&theme=transparent&hide_border=true&title_color=FF8C00&text_color=F5F5F5&bg_color=0A0A0A" width="60%"/>
-
-</div>
-
-<br/>
-
-## `$ ./show --trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdulrehman1610&theme=monokai&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
-<br/>
-
 ## `$ ./plot --activity-graph`
 
 <div align="center">
@@ -244,17 +221,12 @@ An AI-powered copywriting studio for generating, editing, and exporting structur
 
 <br/>
 
-## `$ ./generate --summary-cards`
+## `$ ./generate --top-languages`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrehman1610&theme=github_dark" width="100%"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrehman1610&theme=github_dark" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulrehman1610&theme=github_dark" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulrehman1610&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulrehman1610&theme=github_dark" width="49%"/>
 
 </div>
 
@@ -268,6 +240,7 @@ An AI-powered copywriting studio for generating, editing, and exporting structur
 
 </div>
 
+> ⚠️ This renders only after a `snake.yml` GitHub Action is added to the `abdulrehman1610/abdulrehman1610` repo — see note below.
 
 <br/>
 
