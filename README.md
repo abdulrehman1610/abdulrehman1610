@@ -36,6 +36,16 @@
 <br />
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrehman1610/abdulrehman1610/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulrehman1610/abdulrehman1610/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/abdulrehman1610/abdulrehman1610/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
   <img src="assets/connect.svg?v=1" width="100%" alt="Connect with Muhammad Abdul Rehman — Portfolio, LinkedIn, GitHub, and Instagram" />
 </div>
 
